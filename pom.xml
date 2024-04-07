@@ -9,8 +9,8 @@
     <version>1.0-SNAPSHOT</version>
     <distributionManagement>
         <repository>
-            <id>783268375</id>
-            <url>https://github.com/Iamrajesh007/SauceUIAutomation</url>
+            <id>52364032</id>
+            <urlhttps://github.com/neerajlovecyber/SauceUIAutomation</url>
         </repository>
     </distributionManagement>
     <properties>
