@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <distributionManagement>
         <repository>
-            <id>your-repository-id</id>
+            <id>783268375</id>
             <url>https://github.com/Iamrajesh007/SauceUIAutomation</url>
         </repository>
     </distributionManagement>
