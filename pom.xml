@@ -10,7 +10,7 @@
     <distributionManagement>
         <repository>
             <id>52364032</id>
-            <urlhttps://github.com/neerajlovecyber/SauceUIAutomation</url>
+            <url>https://github.com/neerajlovecyber/SauceUIAutomation</url>
         </repository>
     </distributionManagement>
     <properties>
