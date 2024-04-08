@@ -43,5 +43,6 @@ public class UserLogin extends Apputils
       driver.findElement(By.id("finish")).click();
       String status=driver.findElement(By.tagName("h2")).getText();
         Assert.assertEquals(status,"Thank you for your order!");
+        System.out.println("###############");
     }
 }
